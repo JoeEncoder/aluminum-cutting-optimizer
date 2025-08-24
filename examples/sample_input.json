@@ -1,1 +1,38 @@
-
+{
+  "bar_lengths": [
+    5000,
+    6000
+  ],
+  "pieces": [
+    {
+      "id": "P1",
+      "length": 2500,
+      "quantity": 10
+    },
+    {
+      "id": "P2",
+      "length": 1500,
+      "quantity": 15
+    },
+    {
+      "id": "P3",
+      "length": 800,
+      "quantity": 20
+    },
+    {
+      "id": "P4",
+      "length": 621,
+      "quantity": 7
+    },
+    {
+      "id": "P5",
+      "length": 1368,
+      "quantity": 2
+    },
+    {
+      "id": "P6",
+      "length": 3116,
+      "quantity": 4
+    }
+  ]
+}
