@@ -1,1 +1,14 @@
+Using bar length: 1000
 
+--- Cutting Plan ---
+Bar 1: [P1(250), P1(250), P1(250), P1(250)] | Used: 1000 | Waste: 0
+Bar 2: [P1(250), P1(250), P1(250), P1(250)] | Used: 1000 | Waste: 0
+Bar 3: [P1(250), P1(250), P2(150), P2(150), P2(150)] | Used: 950 | Waste: 50
+Bar 4: [P2(150), P2(150), P2(150), P2(150), P2(150), P2(150), P3(80)] | Used: 980 | Waste: 20
+Bar 5: [P2(150), P2(150), P2(150), P2(150), P2(150), P2(150), P3(80)] | Used: 980 | Waste: 20
+Bar 6: [P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80), P3(80)] | Used: 960 | Waste: 40
+Bar 7: [P3(80), P3(80), P3(80), P3(80), P3(80), P3(80)] | Used: 480 | Waste: 520
+
+Total bars used: 7
+Total waste: 650
+Overall efficiency: 90.71%
